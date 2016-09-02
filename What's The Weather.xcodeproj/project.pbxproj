@@ -12,6 +12,8 @@
 		37E7412C1D79ECF50050FBF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37E7412A1D79ECF50050FBF5 /* Main.storyboard */; };
 		37E7412E1D79ECF50050FBF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37E7412D1D79ECF50050FBF5 /* Assets.xcassets */; };
 		37E741311D79ECF50050FBF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37E7412F1D79ECF50050FBF5 /* LaunchScreen.storyboard */; };
+		37E741391D79ED860050FBF5 /* weather app.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 37E741381D79ED860050FBF5 /* weather app.jpeg */; };
+		37E7413B1D7A09EE0050FBF5 /* pink-sky.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 37E7413A1D7A09EE0050FBF5 /* pink-sky.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		37E7412D1D79ECF50050FBF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37E741301D79ECF50050FBF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37E741321D79ECF50050FBF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37E741381D79ED860050FBF5 /* weather app.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "weather app.jpeg"; path = "../../../../Downloads/weather app.jpeg"; sourceTree = "<group>"; };
+		37E7413A1D7A09EE0050FBF5 /* pink-sky.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pink-sky.JPG"; path = "../../../../Downloads/pink-sky.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				37E741261D79ECF50050FBF5 /* AppDelegate.swift */,
 				37E741281D79ECF50050FBF5 /* ViewController.swift */,
 				37E7412A1D79ECF50050FBF5 /* Main.storyboard */,
+				37E741381D79ED860050FBF5 /* weather app.jpeg */,
+				37E7413A1D7A09EE0050FBF5 /* pink-sky.JPG */,
 				37E7412D1D79ECF50050FBF5 /* Assets.xcassets */,
 				37E7412F1D79ECF50050FBF5 /* LaunchScreen.storyboard */,
 				37E741321D79ECF50050FBF5 /* Info.plist */,
@@ -124,7 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				37E741311D79ECF50050FBF5 /* LaunchScreen.storyboard in Resources */,
+				37E741391D79ED860050FBF5 /* weather app.jpeg in Resources */,
 				37E7412E1D79ECF50050FBF5 /* Assets.xcassets in Resources */,
+				37E7413B1D7A09EE0050FBF5 /* pink-sky.JPG in Resources */,
 				37E7412C1D79ECF50050FBF5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
